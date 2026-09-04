@@ -1,0 +1,17 @@
+]633;E;echo "=== pwd ===";9ee36ba0-c153-4c08-8ad9-1dd8c72ea0ca]633;C=== pwd ===
+/workspaces/Operating-systems/command-line-easy
+
+=== ls ===
+easy-log.txt
+files.txt
+hell.txt
+secret.txt
+test.txt
+
+=== hello-copy.txt ===
+Hello, Linux!
+
+
+
+=== test.txt ===
+Test
